@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidWebImageSpider</string>
+    <string name="title">抓取日志</string>
 </resources>
